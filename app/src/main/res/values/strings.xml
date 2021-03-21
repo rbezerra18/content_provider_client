@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Content Provider Client</string>
+    <string name="app_client">App Client</string>
+    <string name="description_image_btn">refresh</string>
+</resources>
